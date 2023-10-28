@@ -6,20 +6,21 @@
 body{
     font-family: 'Nunito', sans-serif;
 }
-.button{
+.button {
     position: fixed;
     right: 0px;
     margin: 20px;
     z-index: 2;
     width: 80px;
     height: 80px;
-    border-radius: 50%;
+    border-radius: 10px;
     background-color: rgb(41, 41, 41);
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
-}
+  }
+  
 
 .burger{
     width: 100%;
